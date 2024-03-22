@@ -2,6 +2,10 @@
    CSS - Order Page
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/css-order-page/assets/111967202/4cb3954a-2660-4432-9147-9fb44abc1ec6" width="700" />
 </p>
